@@ -1,1 +1,1 @@
-# shopee-code-league-2020
+# Shopee-Code-League-2020
